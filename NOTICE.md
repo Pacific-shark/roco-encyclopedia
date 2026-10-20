@@ -15,7 +15,7 @@
 
 ## 配队案例
 
-- 树池来了：[《洛克时报 51》](https://www.bilibili.com/video/BV11cJY6JE7Y/)。电环水队一图流署名云云云；网页还整理了其中水沙队与纯血雨天队的名单。
+- 树池来了：[《洛克时报 51》](https://www.bilibili.com/video/BV11cJY6JE7Y/)。电环水队一图流署名云云云；网页还整理了其中水鲨队与纯血雨天队的名单。
 - 搞零王：[电环水队讲解](https://www.bilibili.com/video/BV13xJ969EKh/)。
 
 逐队出处与日期保留在 JSON 的 `teams` 字段。仅转录与摘要所需配置，没有复制完整视频或文章；来源作者的排名、胜率和环境适用性未经本项目独立验证。
@@ -27,3 +27,5 @@
 ## 程序
 
 原创程序代码采用 MIT，见 [LICENSE](LICENSE)。React 等随网页分发的开源依赖保留其构建文件中的许可证注释。代码许可不改变数据及游戏素材的许可。
+
+图标使用 Lucide，版权及 ISC / Feather MIT 许可全文见 [LUCIDE-LICENSE.txt](LUCIDE-LICENSE.txt)。
